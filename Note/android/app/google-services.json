@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956366344743",
+    "project_id": "helical-fin-328717",
+    "storage_bucket": "helical-fin-328717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956366344743:android:cbc9b96a46ca1d56677402",
+        "android_client_info": {
+          "package_name": "com.example.tttggg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956366344743-eg6e0l7k8o320rlcnof7i4v93j3vf69q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNYB-NrCazpvBxzmxPhkok-Q2TJJa3v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956366344743-eg6e0l7k8o320rlcnof7i4v93j3vf69q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
